@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb730d91-62b8-4674-8380-ac42dba4a1e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/WorldCountStreamUnboundedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/WorldCountStreamUnboundedDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/flink-1.17-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/WordCountDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/WordCountDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/WordCountDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/WordCountDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/WordCountStreamDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/WordCountStreamDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/WordCountStreamDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/WordCountStreamDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/WordCountStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/WordCountStreamDemo.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maveninstall/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maveninstall/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2QW5fC6l8MqN2Hf2JO8ViSucUzM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.WordCountStreamDemo">
+    <configuration name="WordCountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.test.WordCountDemo" />
+      <module name="flink-1.17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.test.WordCountStreamDemo" />
+      <module name="flink-1.17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordCountDemo" />
+      <item itemvalue="Application.WordCountStreamDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCountStreamDemo" />
+        <item itemvalue="Application.WordCountDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb730d91-62b8-4674-8380-ac42dba4a1e1" name="Default Changelist" comment="" />
+      <created>1685456597324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685456597324</updated>
+      <workItem from="1685456599184" duration="6158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="125" key="#Project_Structure" timestamp="1685542704129">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="125" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1685542704129" />
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1685545170162">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1685545170162" />
+    <state x="533" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1685459641225">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="533" y="182" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1685459641225" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1685545178709">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1685545178709" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1685545178708">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1685545178708" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1685545178707">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1685545178707" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1685545178708">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1685545178708" />
+    <state x="229" y="98" key="SettingsEditor" timestamp="1685456732901">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="229" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1685456732901" />
+  </component>
+</project>
